@@ -4,7 +4,7 @@ class Player {
     this.name = null;
     this.password=null;
 
-    this.bloodPressure=25;
+    this.bloodPressure=0;
     this.oxygenRate= 0;
     this.waterIntake = 0;
     this.pulseRate=0;
